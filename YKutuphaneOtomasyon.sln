@@ -1,0 +1,29 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30804.86
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "YKutuphaneOtomasyon", "YKutuphaneOtomasyon\YKutuphaneOtomasyon.csproj", "{9C4B5072-4AF6-4F96-885E-DB9E62C47A64}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "Yağmur Kütüphane Otomasyonu Setup", "Yağmur Kütüphane Otomasyonu Setup\Yağmur Kütüphane Otomasyonu Setup.vdproj", "{1E02B0E0-FA73-4D1F-B6C5-4D9601A19AF5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9C4B5072-4AF6-4F96-885E-DB9E62C47A64}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9C4B5072-4AF6-4F96-885E-DB9E62C47A64}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9C4B5072-4AF6-4F96-885E-DB9E62C47A64}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9C4B5072-4AF6-4F96-885E-DB9E62C47A64}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1E02B0E0-FA73-4D1F-B6C5-4D9601A19AF5}.Debug|Any CPU.ActiveCfg = Debug
+		{1E02B0E0-FA73-4D1F-B6C5-4D9601A19AF5}.Release|Any CPU.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B9BB5C20-618D-4387-8153-A66F88198946}
+	EndGlobalSection
+EndGlobal

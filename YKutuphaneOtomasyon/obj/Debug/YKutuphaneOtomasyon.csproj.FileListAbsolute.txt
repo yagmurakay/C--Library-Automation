@@ -1,0 +1,76 @@
+C:\Users\yagmu\source\repos\YKutuphaneOtomasyon\YKutuphaneOtomasyon\bin\Debug\YKutuphaneOtomasyon.exe.config
+C:\Users\yagmu\source\repos\YKutuphaneOtomasyon\YKutuphaneOtomasyon\bin\Debug\YKutuphaneOtomasyon.exe
+C:\Users\yagmu\source\repos\YKutuphaneOtomasyon\YKutuphaneOtomasyon\bin\Debug\YKutuphaneOtomasyon.pdb
+C:\Users\yagmu\source\repos\YKutuphaneOtomasyon\YKutuphaneOtomasyon\obj\Debug\YKutuphaneOtomasyon.csprojAssemblyReference.cache
+C:\Users\yagmu\source\repos\YKutuphaneOtomasyon\YKutuphaneOtomasyon\obj\Debug\YKutuphaneOtomasyon.Form1.resources
+C:\Users\yagmu\source\repos\YKutuphaneOtomasyon\YKutuphaneOtomasyon\obj\Debug\YKutuphaneOtomasyon.Properties.Resources.resources
+C:\Users\yagmu\source\repos\YKutuphaneOtomasyon\YKutuphaneOtomasyon\obj\Debug\YKutuphaneOtomasyon.csproj.GenerateResource.cache
+C:\Users\yagmu\source\repos\YKutuphaneOtomasyon\YKutuphaneOtomasyon\obj\Debug\YKutuphaneOtomasyon.csproj.CoreCompileInputs.cache
+C:\Users\yagmu\source\repos\YKutuphaneOtomasyon\YKutuphaneOtomasyon\obj\Debug\YKutuphaneOtomasyon.exe
+C:\Users\yagmu\source\repos\YKutuphaneOtomasyon\YKutuphaneOtomasyon\obj\Debug\YKutuphaneOtomasyon.pdb
+C:\Users\yagmu\source\repos\YKutuphaneOtomasyon\YKutuphaneOtomasyon\obj\Debug\YKutuphaneOtomasyon.Ogrenci_islem.resources
+C:\Users\yagmu\source\repos\YKutuphaneOtomasyon\YKutuphaneOtomasyon\obj\Debug\YKutuphaneOtomasyon.csproj.CopyComplete
+C:\Users\yagmu\source\repos\YKutuphaneOtomasyon\YKutuphaneOtomasyon\obj\Debug\YKutuphaneOtomasyon.OgrenciListele.resources
+C:\Users\yagmu\source\repos\YKutuphaneOtomasyon\YKutuphaneOtomasyon\obj\Debug\YKutuphaneOtomasyon.KitapEkle.resources
+C:\Users\yagmu\source\repos\YKutuphaneOtomasyon\YKutuphaneOtomasyon\obj\Debug\YKutuphaneOtomasyon.KitapListele.resources
+C:\Users\yagmu\source\repos\YKutuphaneOtomasyon\YKutuphaneOtomasyon\obj\Debug\YKutuphaneOtomasyon.EmanetSorgula.resources
+C:\Users\yagmu\source\repos\YKutuphaneOtomasyon\YKutuphaneOtomasyon\obj\Debug\YKutuphaneOtomasyon.KitapAl.resources
+C:\Users\yagmu\source\repos\YKutuphaneOtomasyon\YKutuphaneOtomasyon\obj\Debug\YKutuphaneOtomasyon.KitapBirak.resources
+C:\Users\yagmu\source\repos\YKutuphaneOtomasyon\YKutuphaneOtomasyon\obj\Debug\YKutuphaneOtomasyon.KitapGrafik.resources
+C:\Users\yagmu\Desktop\C# Otomasyon DEnemelr\Yağmur Katmansız Çalışan\YagmurVersiyon2\YKutuphaneOtomasyon\YKutuphaneOtomasyon\bin\Debug\YKutuphaneOtomasyon.exe.config
+C:\Users\yagmu\Desktop\C# Otomasyon DEnemelr\Yağmur Katmansız Çalışan\YagmurVersiyon2\YKutuphaneOtomasyon\YKutuphaneOtomasyon\bin\Debug\YKutuphaneOtomasyon.exe
+C:\Users\yagmu\Desktop\C# Otomasyon DEnemelr\Yağmur Katmansız Çalışan\YagmurVersiyon2\YKutuphaneOtomasyon\YKutuphaneOtomasyon\bin\Debug\YKutuphaneOtomasyon.pdb
+C:\Users\yagmu\Desktop\C# Otomasyon DEnemelr\Yağmur Katmansız Çalışan\YagmurVersiyon2\YKutuphaneOtomasyon\YKutuphaneOtomasyon\obj\Debug\YKutuphaneOtomasyon.csprojAssemblyReference.cache
+C:\Users\yagmu\Desktop\C# Otomasyon DEnemelr\Yağmur Katmansız Çalışan\YagmurVersiyon2\YKutuphaneOtomasyon\YKutuphaneOtomasyon\obj\Debug\YKutuphaneOtomasyon.EmanetSorgula.resources
+C:\Users\yagmu\Desktop\C# Otomasyon DEnemelr\Yağmur Katmansız Çalışan\YagmurVersiyon2\YKutuphaneOtomasyon\YKutuphaneOtomasyon\obj\Debug\YKutuphaneOtomasyon.KitapAl.resources
+C:\Users\yagmu\Desktop\C# Otomasyon DEnemelr\Yağmur Katmansız Çalışan\YagmurVersiyon2\YKutuphaneOtomasyon\YKutuphaneOtomasyon\obj\Debug\YKutuphaneOtomasyon.KitapBirak.resources
+C:\Users\yagmu\Desktop\C# Otomasyon DEnemelr\Yağmur Katmansız Çalışan\YagmurVersiyon2\YKutuphaneOtomasyon\YKutuphaneOtomasyon\obj\Debug\YKutuphaneOtomasyon.KitapEkle.resources
+C:\Users\yagmu\Desktop\C# Otomasyon DEnemelr\Yağmur Katmansız Çalışan\YagmurVersiyon2\YKutuphaneOtomasyon\YKutuphaneOtomasyon\obj\Debug\YKutuphaneOtomasyon.KitapGrafik.resources
+C:\Users\yagmu\Desktop\C# Otomasyon DEnemelr\Yağmur Katmansız Çalışan\YagmurVersiyon2\YKutuphaneOtomasyon\YKutuphaneOtomasyon\obj\Debug\YKutuphaneOtomasyon.KitapListele.resources
+C:\Users\yagmu\Desktop\C# Otomasyon DEnemelr\Yağmur Katmansız Çalışan\YagmurVersiyon2\YKutuphaneOtomasyon\YKutuphaneOtomasyon\obj\Debug\YKutuphaneOtomasyon.OgrenciListele.resources
+C:\Users\yagmu\Desktop\C# Otomasyon DEnemelr\Yağmur Katmansız Çalışan\YagmurVersiyon2\YKutuphaneOtomasyon\YKutuphaneOtomasyon\obj\Debug\YKutuphaneOtomasyon.Ogrenci_islem.resources
+C:\Users\yagmu\Desktop\C# Otomasyon DEnemelr\Yağmur Katmansız Çalışan\YagmurVersiyon2\YKutuphaneOtomasyon\YKutuphaneOtomasyon\obj\Debug\YKutuphaneOtomasyon.Properties.Resources.resources
+C:\Users\yagmu\Desktop\C# Otomasyon DEnemelr\Yağmur Katmansız Çalışan\YagmurVersiyon2\YKutuphaneOtomasyon\YKutuphaneOtomasyon\obj\Debug\YKutuphaneOtomasyon.csproj.GenerateResource.cache
+C:\Users\yagmu\Desktop\C# Otomasyon DEnemelr\Yağmur Katmansız Çalışan\YagmurVersiyon2\YKutuphaneOtomasyon\YKutuphaneOtomasyon\obj\Debug\YKutuphaneOtomasyon.csproj.CoreCompileInputs.cache
+C:\Users\yagmu\Desktop\C# Otomasyon DEnemelr\Yağmur Katmansız Çalışan\YagmurVersiyon2\YKutuphaneOtomasyon\YKutuphaneOtomasyon\obj\Debug\YKutuphaneOtomasyon.csproj.CopyComplete
+C:\Users\yagmu\Desktop\C# Otomasyon DEnemelr\Yağmur Katmansız Çalışan\YagmurVersiyon2\YKutuphaneOtomasyon\YKutuphaneOtomasyon\obj\Debug\YKutuphaneOtomasyon.exe
+C:\Users\yagmu\Desktop\C# Otomasyon DEnemelr\Yağmur Katmansız Çalışan\YagmurVersiyon2\YKutuphaneOtomasyon\YKutuphaneOtomasyon\obj\Debug\YKutuphaneOtomasyon.pdb
+C:\Users\yagmu\Desktop\C# Otomasyon DEnemelr\Yağmur Katmansız Çalışan\YagmurVersiyon2\YKutuphaneOtomasyon\YKutuphaneOtomasyon\obj\Debug\YKutuphaneOtomasyon.AnaForm.resources
+C:\Users\yagmu\Desktop\C# Otomasyon DEnemelr\Yağmur\YagmurVersiyon2\YKutuphaneOtomasyon\YKutuphaneOtomasyon\bin\Debug\YKutuphaneOtomasyon.exe.config
+C:\Users\yagmu\Desktop\C# Otomasyon DEnemelr\Yağmur\YagmurVersiyon2\YKutuphaneOtomasyon\YKutuphaneOtomasyon\bin\Debug\YKutuphaneOtomasyon.exe
+C:\Users\yagmu\Desktop\C# Otomasyon DEnemelr\Yağmur\YagmurVersiyon2\YKutuphaneOtomasyon\YKutuphaneOtomasyon\bin\Debug\YKutuphaneOtomasyon.pdb
+C:\Users\yagmu\Desktop\C# Otomasyon DEnemelr\Yağmur\YagmurVersiyon2\YKutuphaneOtomasyon\YKutuphaneOtomasyon\obj\Debug\YKutuphaneOtomasyon.csprojAssemblyReference.cache
+C:\Users\yagmu\Desktop\C# Otomasyon DEnemelr\Yağmur\YagmurVersiyon2\YKutuphaneOtomasyon\YKutuphaneOtomasyon\obj\Debug\YKutuphaneOtomasyon.EmanetSorgula.resources
+C:\Users\yagmu\Desktop\C# Otomasyon DEnemelr\Yağmur\YagmurVersiyon2\YKutuphaneOtomasyon\YKutuphaneOtomasyon\obj\Debug\YKutuphaneOtomasyon.AnaForm.resources
+C:\Users\yagmu\Desktop\C# Otomasyon DEnemelr\Yağmur\YagmurVersiyon2\YKutuphaneOtomasyon\YKutuphaneOtomasyon\obj\Debug\YKutuphaneOtomasyon.KitapAl.resources
+C:\Users\yagmu\Desktop\C# Otomasyon DEnemelr\Yağmur\YagmurVersiyon2\YKutuphaneOtomasyon\YKutuphaneOtomasyon\obj\Debug\YKutuphaneOtomasyon.KitapBirak.resources
+C:\Users\yagmu\Desktop\C# Otomasyon DEnemelr\Yağmur\YagmurVersiyon2\YKutuphaneOtomasyon\YKutuphaneOtomasyon\obj\Debug\YKutuphaneOtomasyon.KitapEkle.resources
+C:\Users\yagmu\Desktop\C# Otomasyon DEnemelr\Yağmur\YagmurVersiyon2\YKutuphaneOtomasyon\YKutuphaneOtomasyon\obj\Debug\YKutuphaneOtomasyon.KitapGrafik.resources
+C:\Users\yagmu\Desktop\C# Otomasyon DEnemelr\Yağmur\YagmurVersiyon2\YKutuphaneOtomasyon\YKutuphaneOtomasyon\obj\Debug\YKutuphaneOtomasyon.KitapListele.resources
+C:\Users\yagmu\Desktop\C# Otomasyon DEnemelr\Yağmur\YagmurVersiyon2\YKutuphaneOtomasyon\YKutuphaneOtomasyon\obj\Debug\YKutuphaneOtomasyon.OgrenciListele.resources
+C:\Users\yagmu\Desktop\C# Otomasyon DEnemelr\Yağmur\YagmurVersiyon2\YKutuphaneOtomasyon\YKutuphaneOtomasyon\obj\Debug\YKutuphaneOtomasyon.Ogrenci_islem.resources
+C:\Users\yagmu\Desktop\C# Otomasyon DEnemelr\Yağmur\YagmurVersiyon2\YKutuphaneOtomasyon\YKutuphaneOtomasyon\obj\Debug\YKutuphaneOtomasyon.Properties.Resources.resources
+C:\Users\yagmu\Desktop\C# Otomasyon DEnemelr\Yağmur\YagmurVersiyon2\YKutuphaneOtomasyon\YKutuphaneOtomasyon\obj\Debug\YKutuphaneOtomasyon.csproj.GenerateResource.cache
+C:\Users\yagmu\Desktop\C# Otomasyon DEnemelr\Yağmur\YagmurVersiyon2\YKutuphaneOtomasyon\YKutuphaneOtomasyon\obj\Debug\YKutuphaneOtomasyon.csproj.CoreCompileInputs.cache
+C:\Users\yagmu\Desktop\C# Otomasyon DEnemelr\Yağmur\YagmurVersiyon2\YKutuphaneOtomasyon\YKutuphaneOtomasyon\obj\Debug\YKutuphaneOtomasyon.csproj.CopyComplete
+C:\Users\yagmu\Desktop\C# Otomasyon DEnemelr\Yağmur\YagmurVersiyon2\YKutuphaneOtomasyon\YKutuphaneOtomasyon\obj\Debug\YKutuphaneOtomasyon.exe
+C:\Users\yagmu\Desktop\C# Otomasyon DEnemelr\Yağmur\YagmurVersiyon2\YKutuphaneOtomasyon\YKutuphaneOtomasyon\obj\Debug\YKutuphaneOtomasyon.pdb
+C:\Users\yagmu\Desktop\182113066-Yağmur AKAY Görsel Programlama Final Projesi\YKutuphaneOtomasyon\YKutuphaneOtomasyon\bin\Debug\YKutuphaneOtomasyon.exe.config
+C:\Users\yagmu\Desktop\182113066-Yağmur AKAY Görsel Programlama Final Projesi\YKutuphaneOtomasyon\YKutuphaneOtomasyon\bin\Debug\YKutuphaneOtomasyon.exe
+C:\Users\yagmu\Desktop\182113066-Yağmur AKAY Görsel Programlama Final Projesi\YKutuphaneOtomasyon\YKutuphaneOtomasyon\bin\Debug\YKutuphaneOtomasyon.pdb
+C:\Users\yagmu\Desktop\182113066-Yağmur AKAY Görsel Programlama Final Projesi\YKutuphaneOtomasyon\YKutuphaneOtomasyon\obj\Debug\YKutuphaneOtomasyon.csprojAssemblyReference.cache
+C:\Users\yagmu\Desktop\182113066-Yağmur AKAY Görsel Programlama Final Projesi\YKutuphaneOtomasyon\YKutuphaneOtomasyon\obj\Debug\YKutuphaneOtomasyon.EmanetSorgula.resources
+C:\Users\yagmu\Desktop\182113066-Yağmur AKAY Görsel Programlama Final Projesi\YKutuphaneOtomasyon\YKutuphaneOtomasyon\obj\Debug\YKutuphaneOtomasyon.AnaForm.resources
+C:\Users\yagmu\Desktop\182113066-Yağmur AKAY Görsel Programlama Final Projesi\YKutuphaneOtomasyon\YKutuphaneOtomasyon\obj\Debug\YKutuphaneOtomasyon.KitapAl.resources
+C:\Users\yagmu\Desktop\182113066-Yağmur AKAY Görsel Programlama Final Projesi\YKutuphaneOtomasyon\YKutuphaneOtomasyon\obj\Debug\YKutuphaneOtomasyon.KitapBirak.resources
+C:\Users\yagmu\Desktop\182113066-Yağmur AKAY Görsel Programlama Final Projesi\YKutuphaneOtomasyon\YKutuphaneOtomasyon\obj\Debug\YKutuphaneOtomasyon.KitapEkle.resources
+C:\Users\yagmu\Desktop\182113066-Yağmur AKAY Görsel Programlama Final Projesi\YKutuphaneOtomasyon\YKutuphaneOtomasyon\obj\Debug\YKutuphaneOtomasyon.KitapGrafik.resources
+C:\Users\yagmu\Desktop\182113066-Yağmur AKAY Görsel Programlama Final Projesi\YKutuphaneOtomasyon\YKutuphaneOtomasyon\obj\Debug\YKutuphaneOtomasyon.KitapListele.resources
+C:\Users\yagmu\Desktop\182113066-Yağmur AKAY Görsel Programlama Final Projesi\YKutuphaneOtomasyon\YKutuphaneOtomasyon\obj\Debug\YKutuphaneOtomasyon.OgrenciListele.resources
+C:\Users\yagmu\Desktop\182113066-Yağmur AKAY Görsel Programlama Final Projesi\YKutuphaneOtomasyon\YKutuphaneOtomasyon\obj\Debug\YKutuphaneOtomasyon.Ogrenci_islem.resources
+C:\Users\yagmu\Desktop\182113066-Yağmur AKAY Görsel Programlama Final Projesi\YKutuphaneOtomasyon\YKutuphaneOtomasyon\obj\Debug\YKutuphaneOtomasyon.Properties.Resources.resources
+C:\Users\yagmu\Desktop\182113066-Yağmur AKAY Görsel Programlama Final Projesi\YKutuphaneOtomasyon\YKutuphaneOtomasyon\obj\Debug\YKutuphaneOtomasyon.csproj.GenerateResource.cache
+C:\Users\yagmu\Desktop\182113066-Yağmur AKAY Görsel Programlama Final Projesi\YKutuphaneOtomasyon\YKutuphaneOtomasyon\obj\Debug\YKutuphaneOtomasyon.csproj.CoreCompileInputs.cache
+C:\Users\yagmu\Desktop\182113066-Yağmur AKAY Görsel Programlama Final Projesi\YKutuphaneOtomasyon\YKutuphaneOtomasyon\obj\Debug\YKutuphaneOtomasyon.csproj.CopyComplete
+C:\Users\yagmu\Desktop\182113066-Yağmur AKAY Görsel Programlama Final Projesi\YKutuphaneOtomasyon\YKutuphaneOtomasyon\obj\Debug\YKutuphaneOtomasyon.exe
+C:\Users\yagmu\Desktop\182113066-Yağmur AKAY Görsel Programlama Final Projesi\YKutuphaneOtomasyon\YKutuphaneOtomasyon\obj\Debug\YKutuphaneOtomasyon.pdb
